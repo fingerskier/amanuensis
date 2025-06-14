@@ -1,0 +1,2 @@
+# amanuensis
+Intelligent writing assistant
